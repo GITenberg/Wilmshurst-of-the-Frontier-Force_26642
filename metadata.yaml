@@ -1,0 +1,39 @@
+_repo: Wilmshurst-of-the-Frontier-Force_26642
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Prater, Ernest
+    gutenberg_agent_id: '32142'
+    url: http://www.gutenberg.org/2009/agents/32142
+covers:
+- cover_type: archival
+  image_path: 26642-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: In the early decades of the twentieth century, member of the Royal Navy
+  and lifelong seaman Percy F. Westerman began writing juvenile action-adventure novels,
+  drawing on his own experiences during World War I and in other theaters of war.
+  He achieved widespread acclaim and the undying devotion of millions of young readers.
+  In this installment of the series, an intrepid crew of men plays a critical part
+  in a campaign in Africa.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German East Africa -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Africa -- Juvenile fiction'
+title: Wilmshurst of the Frontier Force
+url: http://www.gutenberg.org/ebooks/26642
