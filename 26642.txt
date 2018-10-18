@@ -1564,7 +1564,7 @@ on his feet practically the whole of that time.
 brother-officer's question.  "Yes--rather.  It seems that he struck our
 main camp about an hour or so ago.  The colonel's sent to say that we
 are to attempt an enveloping movement.  The Boches are in force on a
-kopje about five miles on our light front--about eight hundred of 'em
+kopje about five miles on our right front--about eight hundred of 'em
 according to MacGregor's report."
 
 "That's good," declared Wilmshurst.  All the same he felt rather
@@ -2115,7 +2115,7 @@ reptile have we been harbouring?  I'm afraid that what steps we take
 concerning him will be locking the stable door after the horse has
 gone."
 
-"We arc working simply in conjecture, sir," observed the subaltern.
+"We are working simply in conjecture, sir," observed the subaltern.
 "He may be all right, after all."
 
 "Conjecture, confound it!" shouted the other.  "What d'you call this?"
@@ -2683,7 +2683,7 @@ Moshi's statement was correct.
 here an' use yer eyes all one time quick.  Say who am white man on der
 black horse."
 
-"Me tink MacGreg him come," replied Tan Barl after a brief survey.
+"Me tink MacGreg him come," replied Tari Barl after a brief survey.
 "No; me no tink me know."
 
 Wilmshurst waited inactive.  Until the approaching hostile column had
@@ -4517,7 +4517,7 @@ in a saddle for----"
 "Good heavens!--Dudley!" exclaimed the gaunt and haggard prisoner.
 
 It was Wilmshurst's turn to be dumfounded.  He stepped back a pace and
-looked the rescued man Intently in the face.  Was it possible that this
+looked the rescued man intently in the face.  Was it possible that this
 human wreck was his once well-set-up and powerfully-built brother?
 
 "Rupert!" he exclaimed dubiously.
@@ -5430,7 +5430,7 @@ knocking splinters from one of the cross-pieces of the stockade--and
 then utter silence.
 
 "Dashed if I can stick this!" declared Wilmshurst.  "I'll go out and
-sec what's doing.  With luck I'll be back in an hour."
+see what's doing.  With luck I'll be back in an hour."
 
 "Very good," agreed the Rhodesian patrol-commander.  "Give the word
 'Buluwayo' for the countersign.  Good luck!"
